@@ -7,3 +7,7 @@ echo "hello,Good Morning,Today Date is ${DATE}"
 # Arthematic substitutions
 ADD=$((10+20))
 echo "addition of 10+20 =${ADD}"
+
+# Arthematic command substitution
+
+ADD=$(x , y)
