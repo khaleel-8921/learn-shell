@@ -1,4 +1,4 @@
-m1(){
+fun(){
 echo hello world from function
 echo First argument - $1
 echo second argument -- $2
