@@ -11,5 +11,5 @@ b=200
 # main function
 ## call a function
 a=120
-xyz 123 456
+m1 123 456
 echo value of b - $b
